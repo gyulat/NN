@@ -1,0 +1,2 @@
+# NN
+Neurális hálózatok
